@@ -1,7 +1,7 @@
 //setup 
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const token = "NzQxMDY4NzE4MDg3MzQwMTQz.XyyMBg.2ch6iDj3LRaXgM1cTyZPQDSkumU";
+const token = "";
 const prefix = "!"
 
 //setup commands  
